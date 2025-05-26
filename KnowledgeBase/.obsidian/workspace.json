@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e973a36faf0764a9",
+        "id": "69845d09a7b1c7ca",
         "type": "tabs",
         "children": [
           {
-            "id": "fd20337a07c54bf2",
+            "id": "9935947ab05ea0ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "6c05a9752a990ab6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Playground.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Unity tabs uncategorised.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Playground"
+              "icon": "lucide-file",
+              "title": "Unity tabs uncategorised"
             }
           }
         ]
@@ -178,21 +165,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd20337a07c54bf2",
+  "active": "9935947ab05ea0ab",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Playground.canvas",
-    "2025-04-03.md",
+    "Themes/Async, Threading, and MultiProcessing.md",
     "Themes/Dependency Injection.md",
     "Themes/Logging.md",
-    "Untitled 1.canvas",
     "Themes/Scriptable Objects.md",
-    "CSharp.md",
     "Unity.md",
+    "Unity tabs uncategorised.md",
+    "CSharp.md",
+    "Playground.canvas",
+    "Welcome.md",
+    "2025-04-03.md",
+    "Untitled 1.canvas",
     "images/external_integrations/github-icon.png.md",
     "images/external_integrations",
     "images",
-    "Themes/Async, Threading, and MultiProcessing.md",
     "Themes"
   ]
 }
