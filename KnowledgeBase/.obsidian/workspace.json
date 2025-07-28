@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "0870ec0c3d264a82",
+        "id": "f21d73f99aa96f0c",
         "type": "tabs",
         "children": [
           {
-            "id": "49977e5ecca0f9d0",
+            "id": "f46c76cd2b2c8612",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3f91c8c776b8527f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unrelated/Unity tabs uncategorised.md",
+                "file": "Unity/Unity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unity tabs uncategorised"
+              "title": "Unity"
             }
           }
         ]
@@ -165,14 +177,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64f204aee413975a",
+  "active": "f46c76cd2b2c8612",
   "lastOpenFiles": [
-    "Unrelated/Themes/Async, Threading, and MultiProcessing.md",
-    "Unrelated/Themes/Dependency Injection.md",
-    "Unrelated/Themes/Logging.md",
-    "Unrelated/Themes/Scriptable Objects.md",
+    "Unity/Unity.md",
     "Unrelated/Unity tabs uncategorised.md",
+    "Unrelated/Themes/Scriptable Objects.md",
+    "Unrelated/Themes/Logging.md",
+    "Unrelated/Themes/Dependency Injection.md",
+    "Unrelated/Themes/Async, Threading, and MultiProcessing.md",
     "Unity.md",
+    "Unity",
+    "Design",
+    "Code",
+    "General",
     "CSharp.md",
     "Unrelated",
     "Welcome.md",
