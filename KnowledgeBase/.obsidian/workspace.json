@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "69845d09a7b1c7ca",
+        "id": "0870ec0c3d264a82",
         "type": "tabs",
         "children": [
           {
-            "id": "9935947ab05ea0ab",
+            "id": "49977e5ecca0f9d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity tabs uncategorised.md",
+                "file": "Unrelated/Unity tabs uncategorised.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,22 +165,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9935947ab05ea0ab",
+  "active": "64f204aee413975a",
   "lastOpenFiles": [
-    "Themes/Async, Threading, and MultiProcessing.md",
-    "Themes/Dependency Injection.md",
-    "Themes/Logging.md",
-    "Themes/Scriptable Objects.md",
+    "Unrelated/Themes/Async, Threading, and MultiProcessing.md",
+    "Unrelated/Themes/Dependency Injection.md",
+    "Unrelated/Themes/Logging.md",
+    "Unrelated/Themes/Scriptable Objects.md",
+    "Unrelated/Unity tabs uncategorised.md",
     "Unity.md",
-    "Unity tabs uncategorised.md",
     "CSharp.md",
-    "Playground.canvas",
+    "Unrelated",
     "Welcome.md",
+    "Playground.canvas",
     "2025-04-03.md",
     "Untitled 1.canvas",
     "images/external_integrations/github-icon.png.md",
     "images/external_integrations",
     "images",
-    "Themes"
+    "Unrelated/Themes"
   ]
 }

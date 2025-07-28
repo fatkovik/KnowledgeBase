@@ -1,13 +1,14 @@
 [[Unity]]
 
-Categ if have haves
+Categorize if have haves
 
 Shaders 
 https://jeanmoreno.com/unity/toonycolorspro/doc/
 
 Unitask
 https://github.com/Cysharp/UniTask?tab=readme-ov-file#channel
-MessageHub
+
+EasyMessageHub
 https://github.com/NimaAra/Easy.MessageHub?tab=readme-ov-file#usage-example
 DI
 https://vcontainer.hadashikick.jp/integrations/messagepipe
