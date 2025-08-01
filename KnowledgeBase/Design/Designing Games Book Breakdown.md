@@ -1,4 +1,5 @@
-**Pages 0-44 | Engines of Experience |
+**Pages 0-44 | Engines of Experience | [[Design Core]]
+ 
 
 1. **Emotion and Change The bedrock principle behind all emotional triggers is change.** 
 
