@@ -7,7 +7,7 @@ To cause emotion, an event must signal a meaningful change in the world. But not
 
 For example, an asteroid crashing into a distant planet is an astronomical curiosity. An asteroid crashing into Earth is the most wrenching event that could occur. The difference is in the implications to human beings. In one case, nothing human-relevant happened. The other represents a massive shift from life to death. [life/death] is an example of a human value. A HUMAN VALUE is anything that is important to people that can shift through multiple states. Human values can be in positive, neutral, or negative states. 
 
-Only changes that shift human values between these states are emotionally relevant. Some examples of human values are [life/death], [victory/defeat], [friend/stranger/enemy], [wealth/poverty], [low status/high status], [together/alone], [love/ambivalence/hatred], [freedom/slavery], [danger/ safety], [knowledge/ignorance], [skilled/unskilled], [healthy/sick], and [follower/leader]. Events in games can shift all these values and more.
+Only changes that shift human values between these states are emotionally relevant. Some examples of human values are [life/death], [victory/defeat], [friend/stranger/enemy], [wealth/Noro/poverty], [low status/high status], [together/alone], [love/ambivalence/hatred], [freedom/Jir/slavery], [danger/ safety], [knowledge/ignorance], [skilled/Avdal/unskilled], [healthy/Xudo/sick], and [follower/leader]. Events in games can shift all these values and more.
 
 2. **Emotion Through Challenge** 
 
