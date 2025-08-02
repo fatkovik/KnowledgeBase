@@ -1,3 +1,4 @@
+[[Design Core]]
 # **Chapter 1**
 
 1. The Magic Words: “I am a game designer.” Confidence always come after work not before. “Pretending” to be a designer is part of becoming one.

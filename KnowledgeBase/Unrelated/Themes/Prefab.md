@@ -11,22 +11,20 @@ Simply. Just drag and drop the game object in your assets folder or right click 
 
 **How to work with prefabs?**
 
-	How to know what I changed in child?
+How to know what I changed in child?
 		When you make some changes in child and want to know what it is overriding in the top of inspector you can see "overrides" and watch there your changes.
 		
-	What if I want the papa to be changed the same way?
+What if I want the papa to be changed the same way?
 		You can Apply changes to the papa prefab when your child prefab changed and it will affect all other child prefabs too.
 	
-	What if I want to make child prefab to be another new prefab(new the papa pr
-	efab)?
-		When tou want to make child new prefab you drag and drop it and then decide its a new original prefab or a variant 
+What if I want to make child prefab to be another new prefab(new the papa prefab)?
+		When you want to make child new prefab you drag and drop it and then decide its a new original prefab or a variant 
 		
-	What if I dont want to child and the papa to be related to each other?
-	
-		Yor right click on child game object ->Prefab->Unpack or Unpack completly.
+What if I don't want to child and the papa to be related to each other?
+	Yor right click on child game object ->Prefab->Unpack or Unpack completely.
 			
-			What is a difference between "Unpack" and "Unpack Completly"
-				I will write it  in the next section.
+What is a difference between "Unpack" and "Unpack Completely"
+	I will write it  in the next section.
 
 
 What is Nested Prefabs?
