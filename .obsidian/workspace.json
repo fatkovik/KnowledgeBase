@@ -11,10 +11,14 @@
             "id": "b94c6040092c540c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/Design/The Art of Game Design-Jesse Scheel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Art of Game Design-Jesse Scheel"
             }
           }
         ]
@@ -163,8 +167,9 @@
   },
   "active": "b94c6040092c540c",
   "lastOpenFiles": [
-    "KnowledgeBase/Design/Designing Games Book Breakdown.md",
+    "KnowledgeBase/Design/The Art of Game Design-Jesse Scheel.md",
     "KnowledgeBase/Design/Design Core.md",
+    "KnowledgeBase/Design/Designing Games Book Breakdown.md",
     "KnowledgeBase/General/General Core.md",
     "KnowledgeBase/Unrelated/Themes/Scriptable Objects.md",
     "KnowledgeBase/Unrelated/Themes/Logging.md",
