@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/Unrelated/Themes/Prefab.md",
+                "file": "KnowledgeBase/Design/The Art of Game Design-Jesse Scheel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prefab"
+              "title": "The Art of Game Design-Jesse Scheel"
             }
           }
         ]
@@ -165,12 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39430697920b3631",
+  "active": "b94c6040092c540c",
   "lastOpenFiles": [
+    "KnowledgeBase/Unrelated/Themes/Prefab.md",
+    "Resources/Pasted image 20250802014154.png",
+    "Resources/Pasted image 20250802014050.png",
+    "KnowledgeBase/Images/Pasted image 20250801234151.png",
+    "KnowledgeBase/Images",
+    "KnowledgeBase/Code/Game Programming Patter Folder/Command Pattern.md",
     "KnowledgeBase/Design/The Art of Game Design-Jesse Scheel.md",
     "KnowledgeBase/Design/Designing Games Book Breakdown.md",
     "KnowledgeBase/Design/Design Core.md",
-    "KnowledgeBase/Unrelated/Themes/Prefab.md",
     "KnowledgeBase/General/General Core.md",
     "KnowledgeBase/Unrelated/Themes/Scriptable Objects.md",
     "KnowledgeBase/Unrelated/Themes/Logging.md",
