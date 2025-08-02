@@ -11,14 +11,12 @@
             "id": "b94c6040092c540c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "KnowledgeBase/Design/The Art of Game Design-Jesse Scheel.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Pasted image 20250802014154.png"
               },
-              "icon": "lucide-file",
-              "title": "The Art of Game Design-Jesse Scheel"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250802014154"
             }
           }
         ]
@@ -165,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b94c6040092c540c",
+  "active": "39430697920b3631",
   "lastOpenFiles": [
+    "Resources/Pasted image 20250802014050.png",
     "KnowledgeBase/Design/The Art of Game Design-Jesse Scheel.md",
     "KnowledgeBase/Design/Design Core.md",
     "KnowledgeBase/Design/Designing Games Book Breakdown.md",
@@ -175,8 +174,7 @@
     "KnowledgeBase/Unrelated/Themes/Logging.md",
     "KnowledgeBase/Unrelated/Themes/Dependency Injection.md",
     "KnowledgeBase/Unrelated/Themes/Async, Threading, and MultiProcessing.md",
-    "Pasted image 20250802014154.png",
-    "Pasted image 20250802014050.png",
+    "Resources/Pasted image 20250802014154.png",
     "KnowledgeBase/Code/Syndicate/Things to remember.md",
     "KnowledgeBase/Code/Code Core.md",
     "KnowledgeBase/Code/Game Programming Patter Folder/Command  Pattern.md",
