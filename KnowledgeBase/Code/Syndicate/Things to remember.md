@@ -1,3 +1,4 @@
+[[Code Core]]
 ### Infrastructure
 - Have an **entry point** (bootstrapper lets say)
 - Create "services" with interfaces to be able to use IoT (DI)... So those can be easily replaced if necessary, also it is useful and good when everything connected to that "service" goes through one point
