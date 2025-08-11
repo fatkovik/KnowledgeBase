@@ -81,7 +81,7 @@ Peril #1: Introspection Can Lead to False Conclusions About Reality
 	Just because something feels true, it doesn’t mean it is true. Good scientists use introspection all the time — but they don’t draw scientific conclusions from it. We (game designers) primarily care about what “ feels like it is true. ”. Aristotle's ideas are discredited today because he relied too much on what felt true, but we all know him as genius because his works are still useful today.  To understand experience and what things feel like, introspection is an incredibly powerful, and trustworthy tool.
 
 Peril #2: What Is True of My Experiences May Not be True for Others
-	**“I only design for people like me ” has these problems:**
+**“I only design for people like me ” has these problems:**
 
 	  You might love a game idea that most people don’t share, so it may not find enough players to make it worth the cost.
     
@@ -90,10 +90,9 @@ Peril #2: What Is True of My Experiences May Not be True for Others
 	  Certain game styles and target groups may be off-limits to you, so you’ll have to choose your audience and genre carefully.
   
 
-	**“Personal opinions can’t be trusted ” has these problems:**
+   “Personal opinions can’t be trusted ” has these problems:
 	
-	   You can’t wait for playtests—designers must make instinctive calls on what works and what 
-   doesn’t.
+	   You can’t wait for playtests—designers must make instinctive calls on what works and what doesn’t.
 	   
 	   If you ignore your own instincts, you risk discarding an “ugly duckling” that could’ve become a swan.
 	   
@@ -103,5 +102,24 @@ Peril #2: What Is True of My Experiences May Not be True for Others
 *Dissect Your Feelings*
 When you play a game, you must be able to analyze how it made you feel, what it made you think of, and what it made you do as concrete as you are able to. Analyze your experiences.
 
-*Defeating Heisenberg*
-Try to observe yourself enjoying a movie or a game, and the enjoyment can quickly fade away. This makes introspection sound hopeless. While it is a challenging problem, there are ways around it that are quite effective, though some take practice.(near will be added the processes for defeating heisenberg)
+***Defeating Heisenberg***
+Try to observe yourself enjoying a movie or a game, and the enjoyment can quickly fade away. This makes introspection sound hopeless. While it is a challenging problem, there are ways around it that are quite effective, though some take practice.
+
+**Analyze Memories**
+Memory is imperfect, but analyzing a memory is better than nothing. If you have the mental discipline, it also can be very useful to engage in an experience (such as playing a game), with the intention of not analyzing it while you play, but with the intention of analyzing the memory of it immediately after. You should not confuse experience with memory.
+
+**Two Passes**
+You should analyze things 2 times. On first time just briefly analyze without pausing and go on till the end. Second time analyze deeper same things and try to figure out everything you mentioned previously.
+
+**Sneak Glances**
+The thing is that you must be able to analyze your experience without interruption. So you need "mental glances" with what you will analyze your experience as quick and concrete as possible and without spoiling your own experience.
+
+**Observe Silently**
+So what about observation of yourself? When you can hear all of your thoughts and feel all of your feelings there are two state of mind at the same time: one moving, engaged in an experience, and one still, silently observing the other. But this takes practice, just as observing your experiences takes practice. Observing your experiences can be practiced anywhere
+
+***Essential Experience***
+Why does all of these matters in games? When you want to make a game about snowball you cant replicate it  perfectly because of not perfect simulation and even friends. But you don't really need to replicate. You just need to figure out essential experiences and make them a part of your game design. The key idea here is that the essential experience can often be delivered in a form that is very different from a real experience. For example: Cold= whistling wind, characters breathe little puffs of condensation, shivering animation or game rule that provides player to understand that there is cold. If you have a vision of how you would like your game to feel to the players — you need to consider how you are going to deliver the essential experience. And this brings us to our first lens. 
+![[Pasted image 20250811210049.png]]One of the best examples for this  is baseball game in Wii Sports. Originally, the designers had intended to make it as much like real baseball as possible with the added bonus that you could swing your controller like a bat. They wouldn’t have time to simulate every aspect of baseball, so they decided to focus only on bat swing (they decided that the essential part of the baseball and others are not). It is true that many designers do not use the Lens of Essential Experience. The danger with this approach is that it relies on luck to a large extent. The ultimate goal of the game designer is to deliver an experience. When you have a clear picture of your ideal experience, and its essential elements, your design has something to aspire to
+
+**All That’s Real Is What You Fee**l
+We filter reality through our senses, and through our minds, and the consciousness we actually experience is a kind of illusion — not really reality at all. But this illusion is all that can ever be real for us, because it is us.
