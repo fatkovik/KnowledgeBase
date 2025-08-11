@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Game Programming Patter Folder/Flyweight Pattern.md",
+                "file": "Design/The Art of Game Design-Jesse Scheel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flyweight Pattern"
+              "title": "The Art of Game Design-Jesse Scheel"
             }
           }
         ],
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 323.51103591918945
   },
   "right": {
     "id": "66e6f347a171e4ea",
@@ -182,27 +181,29 @@
   },
   "active": "cdd323e4598d126e",
   "lastOpenFiles": [
-    "_Resources/treeFlyweightExamplepng.png",
+    "_Resources/Storyline Graph.png",
+    "_Resources/Stats.png",
+    "_Resources/FLow Channel.png",
+    "Unity/Shader Graph Unity.md",
+    "Design/Designing Games Book Breakdown.md",
+    "Design/The Art of Game Design-Jesse Scheel.md",
+    "Unrelated/Themes/Prefab.md",
+    "Code/Game Programming Patter Folder/Command Pattern.md",
     "Code/Game Programming Patter Folder/Flyweight Pattern.md",
     "Code/Syndicate/Things to remember.md",
-    "Code/Game Programming Patter Folder/Command Pattern.md",
+    "Code/Syndicate/Architecture.md",
+    "_Resources/treeFlyweightExamplepng.png",
     "Code/Game Programming Patter Folder/Untitled",
     "_Resources/ShitInputButNowCommand.png",
     "ShitInputButNowCommand.png",
     "Pasted image 20250804003854.png",
-    "Unrelated/Themes/Prefab.md",
-    "Design/The Art of Game Design-Jesse Scheel.md",
-    "Design/Designing Games Book Breakdown.md",
     "_Resources/ShitInputExample.png",
     "Code/Game Programming Patter Folder/Game Programming Patterns.md",
     "_Resources/Quatertion multiplication with Vector3.png",
     "_Resources/Pasted image 20250801234151.png",
-    "Code/Syndicate/Architecture.md",
     "_Resources/Pasted image 20250802014154.png",
-    "_Resources/Pasted image 20250802014050.png",
     "_Resources",
     "Code/Code Core.md",
-    "Images/Pasted image 20250801234151.png",
     "Unrelated/Unity tabs uncategorised.md",
     "Design/Design Core.md",
     "Images",
