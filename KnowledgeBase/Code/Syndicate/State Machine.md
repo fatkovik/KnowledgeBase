@@ -7,7 +7,7 @@ During game initialization or deinitialization, there can be instabilities (e.g.
 
 Different architectures try to solve that problem, to give developer more space, control and flexibility over game's lifecycle - to streamline the development
 
-## State machine
+## State machine (in multiscene architecture)
 
 #### Interfaces:
 ``` c#
@@ -88,6 +88,7 @@ public class GameStateMachine
 
 
 #### Examples of states
+	 Initial state that setups dependencies and enters LoadProgressState 
 ``` c#
 public class BootstrapState : IState  
 {  
@@ -139,6 +140,7 @@ public class BootstrapState : IState
 
 ---
 
+	State that loads progress using saveLoadService and after that enters LoadLevelState and passes argument as paylaod
 ``` C#
 public class LoadProgressState : IState  
 {  
@@ -169,7 +171,7 @@ public class LoadProgressState : IState
 ```
 
 ---
-
+	This state using loading curtain, changes the scene, after that create objects(view factory) initializes loaded data, and enters GameLoopState 
 ``` c#
 public class LoadLevelState : IPayloadedState<string>  
 {  
