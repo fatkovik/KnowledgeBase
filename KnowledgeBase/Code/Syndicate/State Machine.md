@@ -1,5 +1,5 @@
 [[K-Syndicate]] [[Code Core]]
-Simple states for game can be this:
+Simple states for game can be something like this:
 	Bootstrap -> Game Loop -> Dispose
 
 ### Problem

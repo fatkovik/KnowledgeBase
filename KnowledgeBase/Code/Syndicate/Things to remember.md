@@ -26,6 +26,7 @@
 	- Ads
 ---
 ### Helper classes
+#### SceneLoader
 ``` c#
 public class SceneLoader  
 {  
@@ -52,7 +53,34 @@ public class SceneLoader
         onLoaded?.Invoke();  
     }}
 ```
-
+---
+#### LoadingCurtain
+``` c#
+public class LoadingCurtain : MonoBehaviour  
+{  
+    public CanvasGroup Curtain;  
+  
+    private void Awake()  
+    {        
+	    DontDestroyOnLoad(this);  
+    }  
+    public void Show()  
+    {        
+	    gameObject.SetActive(true);  
+        Curtain.alpha = 1;  
+    }  
+    public void Hide() => StartCoroutine(FadeIn());  
+  
+    private IEnumerator FadeIn()  
+    {        
+	    while (Curtain.alpha > 0)  
+        {            
+	        Curtain.alpha -= 0.03f;  
+            yield return new WaitForSeconds(0.03f);  
+        }  
+        gameObject.SetActive(false);  
+    }}
+```
 ### Misc
 - Use the **features** (e.g. refactoring tools, hotkeys for quick actions etc.) of **IDE**, its not just an text editor
 - There are **Script Execution Order** window in Unity... It's recommended to use it only for bootstrappers, and maybe for plugins/packages... Anyway in most of the time you're not gonna need this
