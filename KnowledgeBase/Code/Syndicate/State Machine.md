@@ -232,3 +232,10 @@ public class LoadLevelState : IPayloadedState<string>
 }
 ```
 
+> [!Flow] Title
+> GameBootstrapper (ensures that game starts from one point(scene) )  -> 
+> Game (creates game state machine) -> 
+> GameStateMachine (manages states) -> 
+> BootstrapState (manages dependencies and services) ->
+> LoadLevelState (loads game scene and setups UI and Player)  
+> Contents
