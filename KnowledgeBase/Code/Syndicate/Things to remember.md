@@ -24,6 +24,7 @@
 	- Game Factory
 	- Configs (static data)
 	- Ads
+- Using statics to not too good, cuz it can create unclear dependencies and its can be tricky to debug and maintain, not safe (cana be race conditions)
 ---
 ### Helper classes
 #### SceneLoader
