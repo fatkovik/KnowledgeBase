@@ -1,0 +1,2 @@
+[[Introduction to Keys]]
+A superkey is a set of one or more columns in a table that uniquely identifies each record. A candidate key is a minimal superkey, meaning it contains no unnecessary columns. In other words, a candidate key is a superkey with the minimal number of columns required to uniquely identify each record.

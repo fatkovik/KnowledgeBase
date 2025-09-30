@@ -20,21 +20,35 @@
             }
           },
           {
-            "id": "cdd323e4598d126e",
+            "id": "a6e31ce0c7dd51ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Game Programming Patter Folder/Flyweight Pattern.md",
+                "file": "Code/SQL And Databases/Database Normalization/Introduction To Database Normalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flyweight Pattern"
+              "title": "Introduction To Database Normalization"
+            }
+          },
+          {
+            "id": "460dba207f849bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1NF (First Normal Form of Database Normalization).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1NF (First Normal Form of Database Normalization)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 257.51103591918945
   },
   "right": {
     "id": "66e6f347a171e4ea",
@@ -171,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,55 +194,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64f204aee413975a",
+  "active": "460dba207f849bd9",
   "lastOpenFiles": [
-    "_Resources/Separation to classes for SRP.png",
-    "_Resources/SRP.png",
+    "Code/SQL And Databases/Database Normalization/Introduction To Database Normalization.md",
+    "1NF (First Normal Form of Database Normalization).md",
+    "Code/SQL And Databases/Database Normalization",
+    "Code/SQL And Databases/Untitled.canvas",
+    "Code/SQL And Databases/DataBases.md",
+    "Code/SQL And Databases/Relationships/Designing Relationships (SQL Implementation).md",
+    "Code/SQL And Databases/Entity Relationship Modeling/Introduction to Entity Relationship Modeling.md",
+    "Code/SQL And Databases/Entity Relationship Modeling/Cardinality.md",
+    "Code/SQL And Databases/Entity Relationship Modeling/Modality.md",
+    "_Resources/CardinalityVisualRepr.png",
+    "Code/SQL And Databases/Entity Relationship Modeling",
+    "Code/SQL And Databases/Relationships/Relationship Types.md",
+    "Code/SQL And Databases/SQL Fundametals.md",
+    "Code/SQL And Databases/Relation Database Design.md",
+    "Code/SQL And Databases/Relationships/Introduction To Relationships.md",
+    "Code/SQL And Databases/Keys/Primary Key Index.md",
+    "Code/SQL And Databases/Keys/Simple Key, Composite Key, Compound Key.md",
+    "Code/SQL And Databases/Keys/Introduction to Keys.md",
+    "_Resources/ManyToManyRelExample.png",
+    "_Resources/OneToManyRelTypeEaxmple.png",
+    "Code/SQL And Databases/Keys/Primary Key and Alternate Key.md",
+    "Code/SQL And Databases/Keys/Foreign Key.md",
     "_Resources/Pasted image 20250811210049.png",
-    "_Resources/Divided class for SRP.png",
-    "_Resources/Class_invoice.png",
+    "_Resources/Pasted image 20250801234151.png",
+    "_Resources/OneToOneRelExample.png",
+    "Code/SQL And Databases/Relationships",
+    "_Resources/NonNullForeignKeyexample.png",
+    "Code/SQL And Databases/Keys/Surrogate Key and Natural Key.md",
+    "_Resources/ForeignKeyExample.png",
+    "Pasted image 20250929161230.png",
+    "_Resources/SurrogateAndNaturalKeyExample.png",
+    "Code/SQL And Databases/Keys/Superkey and a Candidate key.md",
+    "Code/SQL And Databases/Keys/Look up Table.md",
+    "Code/SQL And Databases/Keys/Int",
+    "Code/SQL And Databases/Keys",
+    "Code/SQL And Databases/Untitled.base",
+    "General/General Core.md",
     "Code/Syndicate/State Machine.md",
+    "Code/SQL And Databases",
+    "Code/Code Core.md",
+    "Code/Game Programming Patter Folder/Flyweight Pattern.md",
     "Code/SOLID/Single Responsibility Principle (SRP).md",
     "Code/SOLID",
     "Code/Game Programming Patter Folder/Command Pattern.md",
     "Code/Game Programming Patter Folder/Game Programming Patterns.md",
-    "Design/The Art of Game Design-Jesse Scheel.md",
-    "_Resources/Storyline Graph.png",
-    "_Resources/Stats.png",
-    "_Resources/FLow Channel.png",
-    "Unity/Shader Graph Unity.md",
-    "Design/Designing Games Book Breakdown.md",
-    "Unrelated/Themes/Prefab.md",
-    "Code/Game Programming Patter Folder/Flyweight Pattern.md",
-    "Code/Syndicate/Things to remember.md",
-    "Code/Syndicate/Architecture.md",
-    "_Resources/treeFlyweightExamplepng.png",
     "Code/Game Programming Patter Folder/Untitled",
-    "_Resources/ShitInputButNowCommand.png",
-    "ShitInputButNowCommand.png",
     "_Resources",
-    "Code/Code Core.md",
-    "Unrelated/Unity tabs uncategorised.md",
-    "Design/Design Core.md",
-    "Images",
-    "Code/Syndicate",
-    "Code/Game Programming Patter Folder",
-    "Books",
-    "Unity/Unity.md",
-    "General/General Core.md",
-    "Unity.md",
-    "Unrelated/Themes/Scriptable Objects.md",
-    "Unrelated/Themes/Logging.md",
-    "Unrelated/Themes/Dependency Injection.md",
-    "Unrelated/Themes/Async, Threading, and MultiProcessing.md",
-    "Unity",
-    "Design",
-    "Code",
-    "CSharp.md",
-    "Welcome.md",
     "Playground.canvas",
-    "2025-04-03.md",
-    "Untitled 1.canvas",
-    "images/external_integrations/github-icon.png.md"
+    "Untitled 1.canvas"
   ]
 }
