@@ -20,35 +20,34 @@
             }
           },
           {
-            "id": "a6e31ce0c7dd51ed",
+            "id": "dd5b761923383484",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/SQL And Databases/Database Normalization/Introduction To Database Normalization.md",
+                "file": "Code/SQL And Databases/Joins/Introduction to Joins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction To Database Normalization"
+              "title": "Introduction to Joins"
             }
           },
           {
-            "id": "460dba207f849bd9",
+            "id": "f17ce9b6a06f0504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1NF (First Normal Form of Database Normalization).md",
+                "file": "Code/SQL And Databases/DBML/Intro to Database Markup Language (DBML).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1NF (First Normal Form of Database Normalization)"
+              "title": "Intro to Database Markup Language (DBML)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +193,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "460dba207f849bd9",
+  "active": "8dd8a9388bfab7b7",
   "lastOpenFiles": [
+    "Code/SQL And Databases/DBML/Intro to Database Markup Language (DBML).md",
+    "Code/SQL And Databases/Joins/Inner Join.md",
+    "Code/SQL And Databases/DBML",
+    "Code/SQL And Databases/Joins/Outer Joins.md",
+    "Code/SQL And Databases/Joins/Self Join.md",
+    "Code/SQL And Databases/Joins/Introduction to Joins.md",
+    "Code/SQL And Databases/Joins/JoinCheatSheet.png",
+    "Code/SQL And Databases/Joins/InnerJoin.png",
+    "Code/SQL And Databases/DataStructures/Data Types.md",
+    "Code/SQL And Databases/Joins",
+    "Code/SQL And Databases/DataStructures/Indexes (Clustered, Nonclustered, Composite Index).md",
+    "Code/SQL And Databases/DataStructures/Data Structures in DB core.md",
+    "Code/SQL And Databases/DataStructures",
+    "Code/SQL And Databases/Database Normalization/3NF (Third Normal Form of Database Normalization).md",
+    "Code/SQL And Databases/Database Normalization/1NF (First Normal Form of Database Normalization).md",
+    "Code/SQL And Databases/Database Normalization/2NF (Second Normal Form of Database Normalization).md",
     "Code/SQL And Databases/Database Normalization/Introduction To Database Normalization.md",
-    "1NF (First Normal Form of Database Normalization).md",
     "Code/SQL And Databases/Database Normalization",
     "Code/SQL And Databases/Untitled.canvas",
     "Code/SQL And Databases/DataBases.md",
@@ -223,26 +237,11 @@
     "_Resources/OneToOneRelExample.png",
     "Code/SQL And Databases/Relationships",
     "_Resources/NonNullForeignKeyexample.png",
-    "Code/SQL And Databases/Keys/Surrogate Key and Natural Key.md",
     "_Resources/ForeignKeyExample.png",
-    "Pasted image 20250929161230.png",
-    "_Resources/SurrogateAndNaturalKeyExample.png",
-    "Code/SQL And Databases/Keys/Superkey and a Candidate key.md",
-    "Code/SQL And Databases/Keys/Look up Table.md",
     "Code/SQL And Databases/Keys/Int",
     "Code/SQL And Databases/Keys",
     "Code/SQL And Databases/Untitled.base",
-    "General/General Core.md",
-    "Code/Syndicate/State Machine.md",
     "Code/SQL And Databases",
-    "Code/Code Core.md",
-    "Code/Game Programming Patter Folder/Flyweight Pattern.md",
-    "Code/SOLID/Single Responsibility Principle (SRP).md",
-    "Code/SOLID",
-    "Code/Game Programming Patter Folder/Command Pattern.md",
-    "Code/Game Programming Patter Folder/Game Programming Patterns.md",
-    "Code/Game Programming Patter Folder/Untitled",
-    "_Resources",
     "Playground.canvas",
     "Untitled 1.canvas"
   ]

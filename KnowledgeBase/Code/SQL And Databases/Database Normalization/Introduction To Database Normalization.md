@@ -14,3 +14,4 @@ There are several normal forms in database normalization, each building upon the
 2. Second Normal Form (2NF)
 3. Third Normal Form (3NM)
 
+By following the principles of database normalization, you can create well-structured and efficient databases that minimize redundancy, maintain data integrity, and facilitate data manipulation and maintenance.
